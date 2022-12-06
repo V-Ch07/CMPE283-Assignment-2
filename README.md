@@ -1,5 +1,13 @@
 # CMPE283-Assignment-2
 
+ Question 1:- 
+         
+      1.For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.
+                  
+                 I had done it alone.
+                 
+  Question 2: - The following are the steps involved in the completion of the project.
+
    Step 1: Choose a Virtual Machine with Ubuntu 18.04 version and then Boot the virtual machine by using the commands 
    - sudo reboot - uname -a.
    
@@ -40,10 +48,6 @@
    
    <img width="749" alt="image" src="https://user-images.githubusercontent.com/98682905/205846718-38361aab-c78f-484e-9aeb-9288b9abe927.png">
 
-   Question 1:- 
-         
-      1.For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.
-                  
-                 I had done it alone.
+  
    
            
