@@ -13,7 +13,7 @@
                   sudo rmmod kvm
                   sudo modprobe kvm\
                   sudo modprobe kvm_intel
-                 Now the kernel is successfully built. \
+                  Now the kernel is successfully built. \
                  
    Step 5:  We can check the kernel version using "uname -a".\
    Step 6: We need to update the cpuid.c as well as vmx.c file in their respective folders.\
