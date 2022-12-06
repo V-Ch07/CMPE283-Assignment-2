@@ -31,12 +31,15 @@
    
    Outputs: 
    
-   The total number of exits cis displayed in the following figure:
+   The total number of exits is displayed in the following figure:
    
    <img width="352" alt="image" src="https://user-images.githubusercontent.com/98682905/205846282-04513b9f-6f4f-400c-8bf2-2cf534f03bc2.png">
 
+   The number of cycles spent is displayed in the following figure: 
    
    
+   <img width="749" alt="image" src="https://user-images.githubusercontent.com/98682905/205846718-38361aab-c78f-484e-9aeb-9288b9abe927.png">
+
    
    
            
