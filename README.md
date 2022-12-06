@@ -4,7 +4,7 @@
          
       1.For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.
                   
-                 I had done it alone.
+                - I had done it alone.
                  
   Question 2: - The following are the steps involved in the completion of the project.
 
