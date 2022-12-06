@@ -11,11 +11,11 @@
                   sudo rmmod kvm
                   sudo modprobe kvm\
                   sudo modprobe kvm_intel
-                 Now the kernel is successfully built. 
-        Step 5:  We can check the kernel version using "uname -a".
-        Step 6: We need to update the cpuid.c as well as vmx.c file in their respective folders.
-        Step 7: In order to enable the kvm module in the hosst and to install the packages that are necessary , we need to run the commands in the terminal:
+                 Now the kernel is successfully built. \
+   Step 5:  We can check the kernel version using "uname -a".\
+   Step 6: We need to update the cpuid.c as well as vmx.c file in their respective folders.\
+   Step 7: In order to enable the kvm module in the hosst and to install the packages that are necessary , we need to run the commands in the terminal:\
                 sudo apt install qemu qemu-kvm qemu-system qemu-utils
-                sudo apt install libvirt-clients libvirt-daemon-system virtinst
+                sudo apt install libvirt-clients libvirt-daemon-system virtinst\
 
-        Step 8: Now, install and run the Virtual Machine Manager. Then we need to install a guest OS and then login into nested Virtual Machine.
+   Step 8: Now, install and run the Virtual Machine Manager. Then we need to install a guest OS and then login into nested Virtual Machine.\
