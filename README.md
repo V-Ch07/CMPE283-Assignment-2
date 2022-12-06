@@ -23,6 +23,13 @@
                 sudo apt install libvirt-clients libvirt-daemon-system virtinst
 
    Step 8: Now, install and run the Virtual Machine Manager. Then we need to install a guest OS and then login into nested Virtual Machine.\
+  
    Step 9: Now install the cpuid using sudo apt install cpuid.\
-           Now, run the command cpuid -1 0x4FFFFFFF in order to verify the specific output.\
+          Now, run the command cpuid -1 0x4FFFFFFF in order to verify the specific output.\
+           
+   Step 10: Now, run the test script to see the results and to print the number of exits. We can also find the no. of cycles in ebx and ecx registers when             eax=0xFFFFFFFe
+   
+   
+   
+   
            
