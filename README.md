@@ -1,6 +1,6 @@
 # CMPE283-Assignment-2
 
-Step 1: Choose a Virtual Machine with Ubuntu 18.04 version and then Boot the virtual machine by using the commands - sudo reboot - uname -a.
+Step 1: Choose a Virtual Machine with Ubuntu 18.04 version and then Boot the virtual machine by using the commands - sudo reboot - uname -a.\
 Step 2: The second step is to build a kernel by cloning by using https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.14.3.tar.xz source.
 Step 3: Run lsmod | grep kvm in order to verify if the kvm modules are loaded previously or not.
 Step 4: If they are present in the kernel, we need to remove them using rmmod kvm and rmmod kvm_intel commands.
