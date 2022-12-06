@@ -29,6 +29,13 @@
            
    Step 10: Now, run the test script to see the results and to print the number of exits. We can also find the no. of cycles in ebx and ecx registers when             eax=0xFFFFFFFe
    
+   Outputs: 
+   
+   The total number of exits cis displayed in the following figure:
+   
+   <img width="352" alt="image" src="https://user-images.githubusercontent.com/98682905/205846282-04513b9f-6f4f-400c-8bf2-2cf534f03bc2.png">
+
+   
    
    
    
