@@ -17,6 +17,9 @@
    Step 6: We need to update the cpuid.c as well as vmx.c file in their respective folders.\
    Step 7: In order to enable the kvm module in the hosst and to install the packages that are necessary , we need to run the commands in the terminal:\
                 sudo apt install qemu qemu-kvm qemu-system qemu-utils
-                sudo apt install libvirt-clients libvirt-daemon-system virtinst\
+                sudo apt install libvirt-clients libvirt-daemon-system virtinst
 
    Step 8: Now, install and run the Virtual Machine Manager. Then we need to install a guest OS and then login into nested Virtual Machine.\
+   Step 9: Now install the cpuid using #sudo apt install cpuid.\ 
+           Now, run the command cpuid -1 0x4FFFFFFF in order to verify the specific output.\
+           
